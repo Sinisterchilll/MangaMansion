@@ -80,3 +80,19 @@ a {
     text-decoration: none;
     padding: 8px 0;
 }
+
+button{
+    margin-left: 6px;
+ 
+    padding: 2px;
+
+}
+.input-info{
+    font-size: 18px;
+  
+    padding: 15px;
+}
+
+.popup{
+    z-index: 1;
+}
